@@ -7,3 +7,4 @@
 - Đề cương [link](https://www.overleaf.com/8858577417rbxwppmqbtgd#45def1)
 - Báo cáo Khóa luận [link](https://www.overleaf.com/4338641393qqtcgfrzqqkv#39b9f1)
 - Slide [link](https://docs.google.com/presentation/d/1LagNCOUPE4PFQHaIdiw1dvGXU_CxlFIGoXlx16kO11E/edit?usp=sharing)
+- Kế hoạch [link](https://docs.google.com/spreadsheets/d/15bgjC9sBM9WLEpcgA84cZjkK1MEHjC0VrEY7j161dAY/edit?usp=sharing)
