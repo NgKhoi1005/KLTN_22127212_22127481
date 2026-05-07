@@ -11,4 +11,4 @@
 
 ### Code
 - Notebook của Khôi: [link](https://www.kaggle.com/code/karosvn/colabnas-nkhoi-ver), Sheet tổng hợp kết quả thực nghiệm: [sheet](https://docs.google.com/spreadsheets/d/1vhcM7rgDAb9zhxqglKIm8WgOo8VIKDjLWSY92_72KLo/edit?gid=0#gid=0)
-- **[Nhàn]** Notebook: *Cập nhật sau*; File tổng hợp kết quả thực nghiệm: [Kết quả thực nghiệm](https://docs.google.com/spreadsheets/d/1wxgtWdsk_WwoZ3WFKYRl6gPigeqgOZrECgpu9OfLSwI/edit?usp=sharing)
+- **[Nhàn]** Notebook: [Source code](https://www.kaggle.com/code/tommerfrancis/kltn-nh-n-source-code); File tổng hợp kết quả thực nghiệm: [Kết quả thực nghiệm](https://docs.google.com/spreadsheets/d/1wxgtWdsk_WwoZ3WFKYRl6gPigeqgOZrECgpu9OfLSwI/edit?usp=sharing)
