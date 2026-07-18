@@ -1,0 +1,5 @@
+tensorflow
+numpy
+absl-py
+wget
+gdown
