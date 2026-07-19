@@ -1,0 +1,11 @@
+*.pdf
+
+*.md
+!README.md
+!MODIFIED.md
+
+prompt
+
+*.ipynb
+!ORGINAL_ColabNAS.ipynb
+!T826_KL_KHMT24_SourceCode.ipynb
